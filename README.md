@@ -7,4 +7,5 @@ master branch new .
 dev modify
 
 
-:zap:
+zap -> :zap:
+fire -> :fire:
